@@ -1,6 +1,6 @@
 # real-estate-market-ja
 
-## Project setup
+## Project setup 
 ```
 npm install
 ```
